@@ -15,6 +15,7 @@
 - `git remote add origin <git url>` - add remote origin from GitHub
 - `git remote -v` - checks if/what remote origin is connected, for testing purposes
 - `git status` - show commits ready to be pushed
+- `git clone` - copy a repo and keep it connected to same remote repo
 
 # Making a git commit to GitHub:
 
